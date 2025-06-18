@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/ete-2025",
-      "destination": "/ete-2025/index.html"
-    }
-  ]
-}
